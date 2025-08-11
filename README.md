@@ -21,9 +21,3 @@ A Python-based **offline** voice-activated personal assistant that can:
 
 ---
 
-## 📦 Installation
-
-### 1️⃣ Clone the repository
-```bash
-git clone (https://github.com/Sumit631802/Build-Voice-Assistant)
-cd voice-assistant
